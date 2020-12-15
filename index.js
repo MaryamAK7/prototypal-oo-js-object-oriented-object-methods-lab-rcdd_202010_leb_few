@@ -17,6 +17,6 @@ BoardMember.prototype.doCharity(){
 BoardMember.prototype.releasePressStatement(){
   return 'You will see great things from Scuber.'
 }
-BoardMember.prototype.releasePressStatement(){
+BoardMember.prototype.sayHi(){
   return 'You will see great things from Scuber.'
 }
