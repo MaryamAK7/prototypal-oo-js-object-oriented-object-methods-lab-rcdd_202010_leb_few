@@ -11,3 +11,6 @@ BoardMember.prototype.veto(){
 BoardMember.prototype.approve(){
   return 'You can do that!'
 }
+BoardMember.prototype.approve(){
+  return 'You can do that!'
+}
