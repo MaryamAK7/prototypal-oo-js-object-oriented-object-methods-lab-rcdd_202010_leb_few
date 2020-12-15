@@ -9,5 +9,5 @@ BoardMember.prototype.veto(){
 }
 
 BoardMember.prototype.approve(){
-  return 'No, I must disagree'
+  return 'You can do that!'
 }
