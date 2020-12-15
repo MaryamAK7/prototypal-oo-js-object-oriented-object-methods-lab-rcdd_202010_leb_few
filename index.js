@@ -18,5 +18,5 @@ BoardMember.prototype.releasePressStatement(){
   return 'You will see great things from Scuber.'
 }
 BoardMember.prototype.sayHi(){
-  return 'You will see great things from Scuber.'
+  return '"Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.'
 }
