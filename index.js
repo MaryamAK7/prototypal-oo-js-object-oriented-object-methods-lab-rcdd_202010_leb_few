@@ -1,1 +1,1 @@
-function BoardMember()
+function BoardMember(name,)
