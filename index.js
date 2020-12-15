@@ -15,5 +15,5 @@ BoardMember.prototype.doCharity(){
   return 'I like to help people.'
 }
 BoardMember.prototype.releasePressStatement(){
-  return 'I like to help people.'
+  return 'You will see great things from Scuber.'
 }
